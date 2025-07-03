@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Nobu2025
+# 👋 ¡Hola! Soy Rodrigo
 
 🎓 Estudiante de ingeniería / desarrollador en crecimiento  
 💻 Apasionado por la tecnología, el desarrollo web y los sistemas inteligentes  
